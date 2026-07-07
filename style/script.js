@@ -79,7 +79,7 @@ updateModeIcon();
 
 // ==================== 3. HIỆU ỨNG GÕ CHỮ LỜI CHÚC ====================
 const messages = [
-  "Sinh nhật vui vẻ nha💝🎂.",
+  "Sinh nhật vui vẻ nha, Vy💝🎂.",
   "Mong sao tuổi mới cậu sẽ mang đến thật nhiều hạnh phúc và sức khỏe dồi dào! 🎉✨.",
   "Chúc sao cho cậu luôn thành công nữa nè, làm gì cũng thuận lợi 🥰🍀.",
   "Thêm một tuổi mới, chúc sao cho cậu luôn dui dẻ bên bạn bè, gia đình và người cậu luôn yêu thương 🤗💞.",
