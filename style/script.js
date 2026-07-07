@@ -327,7 +327,7 @@ closeExitBtn.addEventListener("click", () => {
 });
 
 let moveCount = 0;
-const maxMoves = 15;
+const maxMoves = 20;
 
 exitBtn.addEventListener("mouseover", () => {
   if (moveCount < maxMoves) {
