@@ -79,11 +79,11 @@ updateModeIcon();
 
 // ==================== 3. HIỆU ỨNG GÕ CHỮ LỜI CHÚC ====================
 const messages = [
-  "Sinh nhật vui vẻ nha, Vy💝🎂.",
+  "HappyBirth Day Tường Vy 💝🎂.",
   "Mong sao tuổi mới cậu sẽ mang đến thật nhiều hạnh phúc và sức khỏe dồi dào! 🎉✨.",
-  "Chúc sao cho cậu luôn thành công nữa nè, làm gì cũng thuận lợi 🥰🍀.",
-  "Thêm một tuổi mới, chúc sao cho cậu luôn dui dẻ bên bạn bè, gia đình và người cậu luôn yêu thương 🤗💞.",
-  "Hãy tận hưởng ngày đặc biệt này với thật nhiều niềm vui và tiếng cười nhé! ❤️🎈"
+  "Chúc sao cho cậu luôn cố gắng, học thật giỏi và nhìu may mắn trong năm học 🥰🍀.",
+  "Thêm một tuổi mới, chúc sao cho cậu luôn vui vẻ bên bạn bè, gia đình và người cậu yêu thương 🤗💞.",
+  "Hãy tận hưởng tuổi 13 này với thật nhiều niềm vui và tiếng cười nhé! ❤️🎈"
 ];
 const typingTextElem = document.getElementById("typing-text");
 let msgIndex = 0;
